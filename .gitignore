@@ -6,3 +6,5 @@ Backend/unifiedview-env/
 **/.vite/
 __pycache__/
 *.pyc
+
+Backend/unifiedview-env/
